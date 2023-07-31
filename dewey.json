@@ -1,0 +1,518 @@
+{
+    "Computer science, information and general works": {
+        "Computer science, knowledge and systems": [
+            "Computer science, information and general works",
+            "Knowledge",
+            "The book (writing, libraries, book-related topics)",
+            "System",
+            "Data procesing and computer science",
+            "Computer programming, programs and data",
+            "Special computer methods (e.g. AI, multimedia, VR)"
+        ],
+        "Bibliographies": [
+            "Bibliography",
+            "Bibliographies",
+            "Bibs of individuals",
+            "",
+            "Bibs of anonymous works",
+            "Bibs from specific places",
+            "Bibs on specific subjects",
+            "General subject catalogs",
+            "Catalogs arranged by author, date, etc.",
+            "Dictionary catalogs"
+        ],
+        "Library and information sciences": [
+            "Library and information sciences",
+            "Library relationships",
+            "Administration of physical plant",
+            "Personnel management",
+            "",
+            "Library operations",
+            "Libraries for specific subjects",
+            "General libraries",
+            "Reading and use of other information media"
+        ],
+        "Encyclopedias and books of facts": [
+            "General encyclopedic works",
+            "Encyclopedias in American English",
+            "Encyclopedias in English",
+            "Encyclopedias in other Germanic languages",
+            "Encyclopedias in French, Occitan and Catalan",
+            "Encyclopedias in Italian, Romanian, and related languages",
+            "Encyclopedias in Spanish and Portuguese",
+            "Encyclopedias in Slavic languages",
+            "Encyclopedias in Scandinavian languages",
+            "Encyclopedias in other languages"
+        ],
+        "": [""],
+        "Magazines, journals and serials": [""],
+        "Associations, organizations and museums": [""],
+        "News media, journalism and publishing": [""],
+        "Quotations": [""],
+        "Manuscripts and rare books": [""]
+    },
+    "Philosophy and psychology": {
+        "Philosophy": [
+            "Philosophy and psychology",
+            "Theory of philosophy",
+            "Miscellany",
+            "Dictionaries and encyclopedias",
+            "Essays",
+            "Serial publications",
+            "Organizations and managements",
+            "Education, research, related topics of philosophy",
+            "Groups of people",
+            "History and collected biography"
+        ]
+    },
+    "Religion": {
+        "Religion": [
+            "Religion",
+            "Religious mythology, general classes of religion",
+            "Doctrines",
+            "Public worship and other practices"
+        ]
+    },
+    "Social sciences": {
+        "Social sciences": [
+            "Social sciences",
+            "Sociology and anthropology",
+            "Social interaction",
+            "Social processes",
+            "Factors affecting social behavior",
+            "Groups of people",
+            "Culture and institutions",
+            "Communities"
+        ],
+        "Statistics": [],
+        "Political science": [
+            "Political science",
+            "Political systems",
+            "Relation of the state to groups and members",
+            "Civil and political rights",
+            "The political process",
+            "International migration and colonization",
+            "Slavery and emancipation",
+            "International relations",
+            "The legislative process"
+        ],
+        "Economics": [
+            "Economics",
+            "Labor economics",
+            "Financial economics",
+            "Economics of land and energy",
+            "Cooperatives",
+            "Socialism and related systems",
+            "Public finance",
+            "International economics",
+            "Production",
+            "Macroeconomics and related topics"
+        ],
+        "Law": [],
+        "Public administration and military science": [
+            "Public administration and military science",
+            "Public administration",
+            "General considerations of public administration",
+            "Specific fields of public administration",
+            "Public administration of economy and environment",
+            "Military science",
+            "Foot forces and warfare",
+            "Mounted forces and warfare",
+            "Air and other specialized forces and warfare",
+            "Sea forces and warfare"
+        ],
+        "Social problems and social services": [],
+        "Education": [],
+        "Commerce, communications and transportation": [
+            "Commerce, communcations and transportation",
+            "Commerce (trade)",
+            "International commerce",
+            "Postal communication",
+            "Communications",
+            "Railroad transportation",
+            "Inland waterway and ferry transportation",
+            "Water, air, space transportation",
+            "Transportation",
+            "Metrology and standardization"
+        ],
+        "Customs, etiquette and folklore": [
+            "Customs, etiquette and folklore",
+            "Costume and personal appearance",
+            "Customs of life cycle and domestic life",
+            "Death customs",
+            "General customs",
+            "Etiquette",
+            "",
+            "",
+            "Folklore",
+            "Customs of war and diplomacy"
+        ]
+    },
+    "Language": {
+        "Language": [
+            "Language",
+            "Philosophy and theory",
+            "Miscellany",
+            "Dictionaries, encyclopedias, concordances",
+            "Special topics",
+            "Serial publications",
+            "Organizations",
+            "Education, research",
+            "Groups of people",
+            "Geographic treatment and biography"
+        ],
+        "Linguistics": [],
+        "English and Old English languages": [],
+        "German and related languages": [],
+        "French and related languages": [],
+        "Italian, Romanian and related languages": [],
+        "Spanish, Portuguese, Galician": [],
+        "Latin and Italic languages": [],
+        "Classical and modern Greek languages": [],
+        "Other languages": [
+            "Other languages",
+            "East Indo-European and Celtic languages",
+            "Afro-Asiatic languages",
+            "Non-Semitic AFro-Asiatic languages",
+            "Altic, Uralic, Hyperborean, etc.",
+            "Languages of East and Souteast Asia",
+            "African languages",
+            "North American native languages",
+            "South American native languages",
+            "Languages of Other Locations"
+        ]
+    },
+    "Pure science": {
+        "Science": [
+            "Natural sciences and mathematics",
+            "Philosophy and theory",
+            "Miscellany",
+            "Dictionaries, encyclopedias, concordances",
+            "",
+            "Serial publications",
+            "Organizations and management",
+            "Education, research, related topics",
+            "Natural history",
+            "History, geographic treatment, biography"
+        ],
+        "Mathematics": [""],
+        "Astronomy": [
+            "Astonomy and allied sciences",
+            "Celestial mechanics",
+            "Techniques, procedures, etc.",
+            "Specific celestial bodies",
+            "",
+            "Earth",
+            "Mathematical geography",
+            "Celestial navigation",
+            "Ephemerides",
+            "Chronology"
+        ],
+        "Physics": [""],
+        "Chemistry": [""],
+        "Earth sciences and geology": [
+            "Earth sciences",
+            "Geology, hydrology, meteorology",
+            "Petrology",
+            "Economic geology",
+            "Earth sciences of Europe",
+            "Earth sciences of Asia",
+            "Earth sciences of Africa",
+            "Earth sciences of North America",
+            "Earth sciences of South America",
+            "Earth sciences of Other Locations"
+        ],
+        "Fossils and prehistoric life": [
+            "Paleontology",
+            "Paleobotany",
+            "Fossil invertebrates",
+            "Miscellaneous fossil marine and seashore invertebrates",
+            "Fossil Mollusca and Molluscoidea",
+            "Fossil Arthropoda",
+            "Fossil Chordata",
+            "Fossil cold-blooded vertebrates",
+            "Fossil Aves",
+            "Fossil Mammalia"
+        ],
+        "Biology": [
+            "Biology",
+            "Physiology and related subjects",
+            "Biochemistry",
+            "Specific physiological systems in animals, regional histology and physiology in animals",
+            "",
+            "Specific parts and physiological systems in plants",
+            "Genetics and evolution",
+            "Ecology",
+            "Natural history of organisms and related subjects",
+            "Natural history of microorganisms, fungi, algae"
+        ],
+        "Plants": [
+            "Plants",
+            "Specific topics in natural history of plants",
+            "Plants noted for specific vegetative characteristics and flowers",
+            "Magnoliopsida",
+            "Liliopsida",
+            "Pinophyta",
+            "Cryptogamia",
+            "Pteridophyta",
+            "Bryophyta"
+        ],
+        "Animals": [
+            "Animals",
+            "Specific topics in natural history of animals",
+            "Invertebrates",
+            "Miscellaneous marine and seashore invertebrates",
+            "Mollusca and Molluscoidea",
+            "Arthropoda",
+            "Chordata",
+            "Cold-blooded vertebrates",
+            "Aves",
+            "Mammalia"
+        ]
+    },
+    "Technology": {
+        "Technology": [
+            "Technology (applied sciences)",
+            "Philosophy and theory",
+            "Miscellany",
+            "Dictionaries, encyclopedias, concordances",
+            "Technical drawings",
+            "Serial publications",
+            "Organizations",
+            "Education, research, related topics",
+            "Patents",
+            "History, geographic treatment, biography"
+        ],
+        "Medicine and Health": [],
+        "Engineering": [
+            "Engineering and applied operations",
+            "Applied physics",
+            "Mining and related operations",
+            "Military and nautical engineering",
+            "Civil engineering",
+            "Engineering of railroads, roads",
+            "",
+            "Hydraulic engineering",
+            "Sanitary engineering",
+            "Other branches of engineering"
+        ],
+        "Agriculture": [],
+        "Home and family management": [
+            "Home and family management",
+            "Food and drink",
+            "Meals and table service",
+            "Housing and household equipment",
+            "Household utilities",
+            "Household furnishings",
+            "Sewing, clothing, management of personal and family life",
+            "Management of public households",
+            "Housekeeping",
+            "Child rearing"
+        ]
+    },
+    "Arts and recreation": {
+        "Arts": [
+            "The Arts",
+            "Philosophy and theory of fine and decorative arts",
+            "Miscellany of fine and decorative arts",
+            "Dictionaries, encyclopedias, concordances of find and decorative arts",
+            "Special topics in fine and decorative arts",
+            "Serial publications in fine and decorative arts",
+            "Organizations and management",
+            "Education, research, related topics",
+            "Galleries, museums, private collections",
+            "History, geograhic treatment, biography"
+        ],
+        "Area planning and landscape architecture": [""],
+        "Architecture": [
+            "Architecture",
+            "Architectural materials and structural elements",
+            "Architecture from earliest times to c. 300",
+            "Architecture from c. 300 to 1399",
+            "Architecture from 1400",
+            "Public structures",
+            "Buildings for religious and related purposes",
+            "Buildings for educational and research purposes",
+            "Residential and related buildings",
+            "Design and decoration of structures and accessories"
+        ],
+        "Sculpture, ceramics and metalwork": [
+            "Sculpture and related arts",
+            "Processes, forms, subjects of scultpure",
+            "Scultpure from earliest times to c. 500",
+            "Greek, Etruscan, Roman sculpture",
+            "Sculpture from ca 500 to 1399",
+            "Sculpture from 1400",
+            "Carving and carvings",
+            "Numismatics and sigillography",
+            "Ceramic arts",
+            "Art metalwork"
+        ],
+        "Graphic arts and decorative arts": [""],
+        "Painting": [""],
+        "Printmaking and prints": [""],
+        "Photography, computer art, film, video": [""],
+        "Music":  [
+            "Music",
+            "Generic principles and musical forms",
+            "Vocal music",
+            "Music for single voices",
+            "Instruments and ensembles and their music",
+            "Ensembles with only one instrument per part",
+            "Keyboard, mechanical, electrophonic, percussion",
+            "Stringed",
+            "Wind"
+        ],
+        "Outline of sports, games and entertainment": [
+            "Recreational and performing arts",
+            "Public performances",
+            "Stage presentations",
+            "Indoor games and amusements",
+            "Indoor games of skill",
+            "Games of chance",
+            "Athletic and outdoor sports and games",
+            "Aquatic and air sports",
+            "Equestrian sports and animal racing",
+            "Fishing, hunting, shooting"
+        ]
+    },
+    "Literature": {
+        "Literature, rhetoric, and criticism": [],
+        "American literature in English": [
+            "American literature in English",
+            "American poetry in English",
+            "American drama in English",
+            "American fiction in English",
+            "American essays in English"
+        ],
+        "English and Old English literature": [],
+        "German and related literatures": [],
+        "French and related literatures": [],
+        "Italian, Romanian, and related literatures": [],
+        "Spanish, Portugeuese, Galician literatures": [],
+        "Latin and Italic literatures": [],
+        "Classical and modern Greek literatures": [],
+        "Other literatures": [
+            "Literatures of other specific languages and language families",
+            "East Indo-European and Celtic literatures",
+            "Afro-Asiatic literatures",
+            "Non-Semitic Afro-Asiatic literatures",
+            "Literatures of Altaic, Uralic, etc.",
+            "Literatures of East and Southeast Asia",
+            "African literatures",
+            "Literatures of North American native languages",
+            "Literatures of South American native languages",
+            "Literatures of non-Austronesian languages of Oceania, of Austronesian languages, etc."
+        ]
+    },
+    "History and geography": {
+        "History": [
+            "History, geography, and auxiliary disciplines",
+            "Philosophy and theory of history",
+            "Miscellany of history",
+            "Dictionaries, encyclopedias, concordances of history",
+            "Collected accounts of events",
+            "Serial publications of history",
+            "Organizations and management of history",
+            "Education, research, related topics of history",
+            "History with respect to groups of people",
+            "World history"
+        ],
+        "Geography and travel": [
+            "Geography and travel",
+            "Historical geography",
+            "Graphic represtations of earth and extraterrestrial worlds",
+            "Geography of the ancient world",
+            "Geography of Europe",
+            "Geography of Asia",
+            "Geography of Africa",
+            "Geography of North America",
+            "Geography of South America",
+            "Geography of Other Locations"
+        ],
+        "Biography and genealogy": [""],
+        "History of ancient world (to c. 499)": [
+            "History of ancient world",
+            "China to 420",
+            "Egypt to 640",
+            "Palestine to 70",
+            "South Asia to 647",
+            "Mesopotamia and Iranian Plateau to 637",
+            "Europe north and west of Italian Peninsula to 499",
+            "Italian Peninsual and adjacent territories to 476",
+            "Greece to 323",
+            "Other parts of the world"
+        ],
+        "History of Europe": [
+            "History of Europe",
+            "British Isles",
+            "England and Wales",
+            "Germany and neighboring central European countries",
+            "France and Monaco",
+            "Italy, San Marino, Vatican City, and Malta",
+            "Spain, Andorra, Gibraltar, and Portugal",
+            "Russia and neighboring east European countries",
+            "Scandinavia",
+            "Other parts of Europe"
+        ],
+        "History of Asia": [
+            "History of Asia",
+            "China and adjacent areas",
+            "Japan",
+            "Arabian Peninsual and adjacent areas",
+            "India and neighboring south Asian countries",
+            "Iran",
+            "Middle East",
+            "Siberia",
+            "Central Asia",
+            "Southeast Asia"
+        ],
+        "History of Africa": [
+            "History of Africa",
+            "Tunisia and Libya",
+            "Egypt, Sudan, South Sudan",
+            "Ethiopia and Eritrea",
+            "Morocco, Ceuta, Melilla Western Sahara, Canary Islands",
+            "Algeria",
+            "West Africa",
+            "Central Africa",
+            "South Africa",
+            "South Indian Ocean islands"
+        ],
+        "History of North America": [
+            "History of North America",
+            "Canada",
+            "Mexico, Central America, West Indies, Bermuda",
+            "United States",
+            "Northeastern USA",
+            "Southeastern USA",
+            "South central USA",
+            "North central USA",
+            "Western USA",
+            "Great Basin and Pacific Slope of USA"
+        ],
+        "History of South America": [
+            "History of South America",
+            "Brazil",
+            "Argentina",
+            "Chile",
+            "Bolivia",
+            "Peru",
+            "Colobia and Ecuador",
+            "Venezuela",
+            "Guiana",
+            "Paraguay and Uruguay"
+        ],
+        "History of Other Locations": [
+            "History of Other Locations",
+            "",
+            "New Zealand",
+            "Australia",
+            "New Guinea and neighboring countries",
+            "Polynesia",
+            "Atlantic Ocean islands",
+            "Arctic islands and Antarctica",
+            "Extraterrestrial worlds"
+        ]
+    }
+}
