@@ -10,37 +10,49 @@ def encode(binary):
     return np.sum(encoder * binary[:, 0])
 
 def grabCharacterData(filename):
-    if filename == "accented.png":
-        dy = 11
+    if filename.split('/')[-1] == "accented.png":
+        dy = 12
+        clip = 3
     else:
         dy = 8
+        clip = 0
     
     image = Image.open(filename)
     channel = image.getchannel('A')
     data = np.array(channel.getdata())
+    if filename.split('/')[-1] == "accented.png":
+        channel.save("alpha.png")
+        # print(channel.size)
+        # print(image.size)
+        # print(data.size)
 
     data[data < 128] = 1
     data[data >= 128] = -1
-    data = data.reshape(image.size)
+    data = data.reshape(image.size[::-1])
+
+    # print(filename)
+    # print(data[:12, :8])
 
     res = []
     for y in range(image.height // 8):
         row = []
         for x in range(image.width // 8):
-            row.append(characterAt(data, y, x, dy))
+            row.append(characterAt(data, y, x, dy, clip))
+            # if filename.split('/')[-1] == "accented.png":
+            #     print(characterAt(data, y, x, dy, clip))
         res.append(row[:])
 
     return res
 
-def characterAt(data, y, x, dy = 8):
+def characterAt(data, y, x, dy = 8, clip = 0):
     x *= 8
     y *= dy
-    c = data[y:y+dy, x:x+8]
+    c = data[y+clip:y+clip+8, x:x+8]
     totals = np.sum(c, axis = 0)
-    if np.all(totals == dy):
+    if np.all(totals == 8):
         end = 3
     else:
-        end = np.max(np.where(totals != dy)) + 1
+        end = np.max(np.where(totals != 8)) + 1
     return c[:, :end]
 
 def grabJsonData(filename):
@@ -65,7 +77,7 @@ def grabAll():
     # encoder = 1 << np.arange(8)
     res = collections.defaultdict(lambda: list())
 
-    for image_name in json_data:
+    for image_name in ("ascii.png",):
         strings = json_data[image_name]
         binary = grabCharacterData(folder + image_name)
         for y, row in enumerate(strings):
@@ -113,13 +125,13 @@ def chooseCharacter(char_data, img_data):
 
         score = np.sum(cropped * cbin) / (w * h + 0.1)
 
-        if score > highest:
+        if score >= highest:
             highest = score
             best = c
             best_width = w
 
-    if highest < 0.95:
-        return "", 0
+    # if highest < 0.9:
+    #     return "", 0
 
     return best, best_width
 
@@ -130,7 +142,8 @@ def loadScreenshot():
         return None
 
     # image = Image.open("helloworld.png")
-    image = image.crop((770, 157, 1226, 661))
+    # image = image.crop((770, 157, 1226, 661))
+    image = image.crop((1070, 151, 1526, 655))
     image = image.reduce(4)
     image.save("preview.png")
 
