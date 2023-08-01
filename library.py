@@ -130,8 +130,8 @@ def chooseCharacter(char_data, img_data):
             best = c
             best_width = w
 
-    # if highest < 0.9:
-    #     return "", 0
+    if highest < 0.9:
+        return "", 0
 
     return best, best_width
 
