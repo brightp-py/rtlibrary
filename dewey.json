@@ -70,7 +70,29 @@
             "Religion",
             "Religious mythology, general classes of religion",
             "Doctrines",
-            "Public worship and other practices"
+            "Public worship and other practices",
+            "Religious experience, life, practice",
+            "Religious ethics",
+            "Leaders and organizations",
+            "Missions and religious education",
+            "Sources",
+            "Sects and reform movements"
+        ],
+        "Philosophy and theory of religion": [],
+        "The Bible": [
+            "Bible"
+        ],
+        "Christianity": [
+            "Christianity",
+            "God",
+            "Jesus Christ and his family",
+            "Humankind",
+            "Salvation and grace",
+            "Spiritual beings",
+            "Eschatology",
+            "",
+            "Creeds, confessions of faith, covenants, and catechisms",
+            "Apologetics and polemics"
         ]
     },
     "Social sciences": {
@@ -208,7 +230,18 @@
             "Ephemerides",
             "Chronology"
         ],
-        "Physics": [""],
+        "Physics": [
+            "Physics",
+            "Classical mechanics",
+            "Fluid mechanics",
+            "Pneumatics",
+            "Sound and related vibrations",
+            "Light and related radiation",
+            "Heat",
+            "Electricity and electronics",
+            "Magnetism",
+            "Modern physics"
+        ],
         "Chemistry": [""],
         "Earth sciences and geology": [
             "Earth sciences",
@@ -379,13 +412,27 @@
     "Literature": {
         "Literature, rhetoric, and criticism": [],
         "American literature in English": [
-            "American literature in English",
-            "American poetry in English",
-            "American drama in English",
-            "American fiction in English",
-            "American essays in English"
+            "Literature",
+            "Poetry",
+            "Drama",
+            "Fiction",
+            "Essays",
+            "Speeches",
+            "Letters",
+            "Humor and Satire",
+            "Miscellaneous writings"
         ],
-        "English and Old English literature": [],
+        "English and Old English literature": [
+            "Literature",
+            "Poetry",
+            "Drama",
+            "Fiction",
+            "Essays",
+            "Speeches",
+            "Letters",
+            "Humor and Satire",
+            "Miscellaneous writings"
+        ],
         "German and related literatures": [],
         "French and related literatures": [],
         "Italian, Romanian, and related literatures": [],
@@ -430,7 +477,9 @@
             "Geography of South America",
             "Geography of Other Locations"
         ],
-        "Biography and genealogy": [""],
+        "Biography and genealogy": [
+            "Biography"
+        ],
         "History of ancient world (to c. 499)": [
             "History of ancient world",
             "China to 420",
